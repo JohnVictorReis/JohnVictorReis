@@ -25,8 +25,8 @@ Como DBA generalista, meu dia a dia é focado em administração de bancos de da
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnVictorReis&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictorReis&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnVictorReis&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictorReis&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" alt="Linguagens mais usadas" height="150" />
 </p>
 
 
