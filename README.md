@@ -25,11 +25,12 @@ Como DBA generalista, meu dia a dia é focado em administração de bancos de da
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnVictorReis&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictorReis&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnVictorReis &show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictorReis &layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150" />
 </p>
 
 
 ###📫 Como entrar em contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-victor-dos-reis-pereira)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnvictor.trabalho@gmail.com)
