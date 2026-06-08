@@ -21,6 +21,17 @@ Como DBA generalista, meu dia a dia é focado em administração de bancos de da
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnVictorReis&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictorReis&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" alt="Linguagens mais usadas" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnVictorReis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ### 📫 Como entrar em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-victor-dos-reis-pereira)
